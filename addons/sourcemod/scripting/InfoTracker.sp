@@ -18,7 +18,7 @@ public Plugin myinfo =
 	author = "Kyli3_Boi",
 	description = "",
 	version = "1.0",
-	url = ""
+	url = "https://github.com/Kyli3Boi/InfoTracker"
 };
 
 
