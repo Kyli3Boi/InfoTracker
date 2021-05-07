@@ -1,6 +1,8 @@
 # InfoTracker
-Simple plugin for CSGO that logs info of players that have joined the server to its own .txt file
-.txt file will be located in csgo/addons/sourcemod/data/InfoTracker/
+<ul>
+<li>Simple plugin for CSGO that logs info of players that have joined the server to its own <code>.txt</code> file
+  <li> The <code>.txt</code> file will be located in <code>csgo/addons/sourcemod/data/InfoTracker/</code>
+</ul>
 
 <h3>Usage</h3>
-Upload <code>InfoTracker.smx</code> to <code>csgo/addons/sourcemod/plugins</code>
+<li>Upload <code>InfoTracker.smx</code> to <code>csgo/addons/sourcemod/plugins</code>
