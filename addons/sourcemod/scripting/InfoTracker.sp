@@ -82,7 +82,6 @@ public void SavePlayerInfo(int client, int currentTime)
 		GetClientIP(client, IPAddress, sizeof(IPAddress));
 		GetClientAuthId(client, AuthId_Steam2, steamId, sizeof(steamId));
 		
-		//GeoipCountry(IPAddress, country, 45);
 		if (!GeoipCountry(IPAddress, country, 45))
 		{
 			Format(country, 64, "Another Planet");
